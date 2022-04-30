@@ -1,0 +1,42 @@
+.container{
+               background-color: darkgreen;
+               font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+               text-align: center;
+}
+
+h1{
+               color: yellow;
+}
+
+P{
+               color: white;
+}
+
+button{
+       background-color: goldenrod;
+       color: #016f32;
+       width: 150px;  
+       padding-top: 5px;
+       padding-bottom: 5px;
+       border: none;
+       border-radius: 2px;      
+}
+
+#apple-shelf{
+       background-color: greenyellow; 
+       border-radius: 100px;
+       border: none;
+       height: 30px;
+       width: 200px;
+       text-align: center;
+       padding-bottom: 
+}
+
+#orange-shelf{
+       background-color: orange;
+       border-radius: 100px;
+       height: 30px;
+       width: 200px;
+       text-align: center;
+       padding-top: ;
+}
